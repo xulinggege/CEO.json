@@ -1,4 +1,6 @@
 {
-	"version": "1.4.5",
-	"updatInfo": "更新证书"
+	"versionCode": "1.4.5",
+	"newlyInfo": "更新证书",
+	"ifPublish":0,
+	"updateUrl":"https:/foc.sf-express.com/iPadApp/CEO/Release/CEO.plist"
 }
